@@ -1,7 +1,7 @@
 Code for the paper: 
 
-J. Mueller, D. Reshef, G. Du, and T. Jaakkola. 
-"Learning Optimal Interventions". AISTATS (2017).
+J. Mueller, D. N. Reshef, G. Du, and T. Jaakkola. 
+<pre><b><a href="http://proceedings.mlr.press/v54/mueller17a.html"> Learning Optimal Interventions</a></b></pre>. <i>AISTATS</i> (2017).
 
 Dependencies: 
 
