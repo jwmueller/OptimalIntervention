@@ -2,10 +2,11 @@ Code for the paper: <br/> <br/>
 J. Mueller, D. N. Reshef, G. Du, and T. Jaakkola. 
 <b><a href="http://proceedings.mlr.press/v54/mueller17a.html">Learning Optimal Interventions</a></b>. <i>AISTATS</i> (2017).
 
+
 Dependencies: 
 
-Our code requires numpy and scipy. 
-You must also install the developer branch of the <a href="http://github.com/SheffieldML/GPy">GPy</a> package: <br/>
+Our code requires <a href="http://www.numpy.org/">numpy</a> and <a href="http://www.scipy.org/">scipy</a>. 
+You must also install the developer branch of the <a href="http://github.com/SheffieldML/GPy">GPy</a> package. <br/>
 (At the time this code was developed, there was a bug in the predictive variances and gradients thereof in the non-developer version of GPy)
 
 
